@@ -1,18 +1,6 @@
 "use client";
 
-import {
-  Shield,
-  Radio,
-  Smartphone,
-  Lock,
-  TrendingUp,
-  TrendingDown,
-  Activity,
-  ArrowRight,
-  Fingerprint,
-  Signal,
-  GripHorizontal,
-} from "lucide-react";
+import { Shield, Radio, Smartphone, Lock, TrendingUp, TrendingDown, Activity, ArrowRight, FingerprintPattern as Fingerprint, Signal, GripHorizontal } from "lucide-react";
 import {
   BarChart,
   Bar,

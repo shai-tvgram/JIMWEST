@@ -1,15 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import {
-  Brain,
-  Wallet,
-  Zap,
-  CheckCircle,
-  ArrowRight,
-  ShieldCheck,
-  Mail,
-} from "lucide-react";
+import { Brain, Wallet, Zap, CircleCheck as CheckCircle, ArrowRight, ShieldCheck, Mail } from "lucide-react";
 import {
   BarChart,
   Bar,

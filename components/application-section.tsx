@@ -1,14 +1,7 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
-import {
-  ShieldCheck,
-  Lock,
-  ChevronDown,
-  Phone,
-  CheckCircle,
-  AlertTriangle,
-} from "lucide-react";
+import { ShieldCheck, Lock, ChevronDown, Phone, CircleCheck as CheckCircle, TriangleAlert as AlertTriangle } from "lucide-react";
 
 type FormStatus = "idle" | "submitting" | "success" | "error";
 

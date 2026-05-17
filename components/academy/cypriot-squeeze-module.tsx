@@ -1,15 +1,6 @@
 "use client";
 
-import {
-  Brain,
-  Check,
-  BookOpen,
-  Target,
-  TrendingDown,
-  AlertTriangle,
-  BarChart3,
-  Clock,
-} from "lucide-react";
+import { Brain, Check, BookOpen, Target, TrendingDown, TriangleAlert as AlertTriangle, ChartBar as BarChart3, Clock } from "lucide-react";
 import { ScrollReveal } from "@/components/scroll-reveal";
 
 const LESSONS = [

@@ -1,15 +1,6 @@
 "use client";
 
-import {
-  Terminal,
-  Check,
-  BookOpen,
-  Code2,
-  Cpu,
-  Shield,
-  Crosshair,
-  Clock,
-} from "lucide-react";
+import { Terminal, Check, BookOpen, Code as Code2, Cpu, Shield, Crosshair, Clock } from "lucide-react";
 import { ScrollReveal } from "@/components/scroll-reveal";
 
 const LESSONS = [
